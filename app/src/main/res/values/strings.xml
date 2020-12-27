@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Clothing</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_shirts">No Shirts to Show! \n Click on the above Button to add Shirts!</string>
+    <string name="no_pants">No Pants to Show! \n Click on the below Button to add Pants!</string>
+</resources>
